@@ -1,0 +1,25 @@
+title: "Trace-Formula Endoscopy via Stable-Transfer Persistence"
+  message: "If you use this workspace, cite the manuscript and theorem notes."
+  type: software
+  authors:
+    - name: "HautevilleHouse"
+  date-released: 2026-03-05
+  repository-code: "https://github.com/HautevilleHouse/trace-formula-endoscopy-canonical-lane"
+  url: "https://github.com/HautevilleHouse/trace-formula-endoscopy-canonical-lane"
+  license: None
+  keywords:
+- automorphic-forms
+- canonical-lane
+- endoscopy
+- harmonic-analysis
+- local-to-global
+- manifold-constrained
+- mathematical-proof
+- reproducibility
+- trace-formula
+  preferred-citation:
+    type: article
+    title: "Trace-Formula Endoscopy via Stable-Transfer Persistence"
+    authors:
+      - name: "HautevilleHouse"
+    date: 2026-03-05
